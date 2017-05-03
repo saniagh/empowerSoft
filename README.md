@@ -69,3 +69,5 @@ Va oferim urmatoarele 3 conturi de utilizator create cu urmatoarele permisiuni:<
 <li>MySQL</li>
 <li>Webpack(for bundling)</li>
 </ul>
+
+<b>For the login and signup form and pages, refer to https://github.com/peredurabefrog/phpSecureLogin which provided these great tools. Current in-use files are modified and should not be used for own projects. Refer to the above link.</b>
